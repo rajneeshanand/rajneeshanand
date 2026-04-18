@@ -5,7 +5,7 @@ Rajneesh's research lies at the intersection of optimal control, reinforcement l
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arajneesh/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajneesh.1491981@gmail.com) ![Website](https://img.shields.io/website?url=https%3A%2F%2Frajneeshanand.github.io%2F)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arajneesh/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajneesh.1491981@gmail.com) ![Website](https://img.shields.io/website?url=https://rajneeshanand.github.io)
 
 
 # 💻 Tech Stack:
