@@ -9,7 +9,6 @@ Rajneesh's research lies at the intersection of optimal control, reinforcement l
 
 
 # 💻 Tech Stack:
-## 🧰 Tech Stack
 
 ### 💻 Programming & Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -38,7 +37,7 @@ Rajneesh's research lies at the intersection of optimal control, reinforcement l
 
 ---
 
-### ⚙️ Engineering & Simulation
+# ⚙️ Engineering & Simulation
 **CFD & Multiphysics:**  
 ANSYS Fluent • COMSOL • FEniCS  
 
