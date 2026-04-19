@@ -9,6 +9,16 @@ Rajneesh's research lies at the intersection of optimal control, reinforcement l
 
 
 # 💻 Tech Stack:
+### 📊 Scientific Computing & ML
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+
+---
 
 ### 💻 Programming & Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -26,32 +36,29 @@ Rajneesh's research lies at the intersection of optimal control, reinforcement l
 
 ---
 
-### 📊 Scientific Computing & ML
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-
----
 
 # ⚙️ Engineering & Simulation
-**CFD & Multiphysics:**  
-ANSYS Fluent • COMSOL • FEniCS  
 
-**Numerical Methods:**  
-FEM • FVM • PDE Solvers • Nonlinear Optimization  
-
-**Process Simulation:**  
-Aspen Plus  
+### 🔢 Numerical Methods
+![FEM](https://img.shields.io/badge/FEM-6A5ACD?style=for-the-badge)
+![FVM](https://img.shields.io/badge/FVM-8A2BE2?style=for-the-badge)
+![PDE Solvers](https://img.shields.io/badge/PDE%20Solvers-9370DB?style=for-the-badge)
+![Nonlinear Optimization](https://img.shields.io/badge/Nonlinear%20Optimization-7B68EE?style=for-the-badge)
 
 ---
 
-### 🧪 Environment & Tools
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+### 🌊 CFD & Multiphysics
+![ANSYS Fluent](https://img.shields.io/badge/ANSYS%20Fluent-FF6F00?style=for-the-badge)
+![COMSOL](https://img.shields.io/badge/COMSOL-00599C?style=for-the-badge)
+![FEniCS](https://img.shields.io/badge/FEniCS-008080?style=for-the-badge)
+
+---
+
+### 🏭 Process Simulation
+![Aspen Plus](https://img.shields.io/badge/Aspen%20Plus-228B22?style=for-the-badge)
+
+---
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=rajneeshanand&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=rajneeshanand&theme=dark&hide_border=false)<br/>
