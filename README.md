@@ -45,7 +45,7 @@ Rajneesh's research lies at the intersection of optimal control, reinforcement l
 ![PDE Solvers](https://img.shields.io/badge/PDE%20Solvers-9370DB?style=for-the-badge)
 ![Nonlinear Optimization](https://img.shields.io/badge/Nonlinear%20Optimization-7B68EE?style=for-the-badge)
 
----
+--- 
 
 ### 🌊 CFD & Multiphysics
 ![ANSYS Fluent](https://img.shields.io/badge/ANSYS%20Fluent-FF6F00?style=for-the-badge)
