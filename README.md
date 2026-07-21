@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋       ![Profile views](https://komarev.com/ghpvc/?username=rajneeshanand&color=blue&style=flat-square&label=Profile+views)
+
 
 # 💫 About Me:
 Rajneesh's research lies at the intersection of optimal control, reinforcement learning (RL), and microfluidics. He is interested in developing feedback control policies (using RL) for droplet-based systems operating at low Reynolds numbers. On the control-theoretic side, he works with both reduced-order ODE models and PDE-constrained optimal control formulations. On the data-driven side, he is exploring model-based reinforcement learning to automate droplet manipulation and transport in physical microfluidic environments.<br><br>More broadly, Rajneesh is interested in bridging physics-based modeling with machine learning for dynamical systems, computational fluid dynamics (CFD), and developing scalable control strategies for lab-on-a-chip applications.<br>
