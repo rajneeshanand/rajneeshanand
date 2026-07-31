@@ -1,4 +1,4 @@
-## Hi there 👋       ![Profile views](https://komarev.com/ghpvc/?username=rajneeshanand&color=blue&style=flat-square&label=Profile+views)
+## Hi there 👋      
 
 
 # 💫 About Me:
